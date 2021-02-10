@@ -1,1 +1,1 @@
-export default () => "<table>Hello world</table>";
+export default () => "<table></table>";
